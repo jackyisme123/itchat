@@ -1,6 +1,6 @@
 # itchat
-python version 3.6.4
-pip install itchat
+- python version: 3.6.4
+- pip install itchat
 
 ## auto_reply
 use tuling robot to auto reply message (http://www.tuling123.com/openapi/api)
