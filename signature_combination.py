@@ -45,7 +45,7 @@ d = path.dirname(__file__)
 
 # read the mask / color image taken from
 # http://jirkavinse.deviantart.com/art/quot-Real-Life-quot-Alice-282261010
-alice_coloring = np.array(Image.open(path.join(d, "shape_img_url")))
+alice_coloring = np.array(Image.open(path.join(d, shape_img_url)))
 
 # 设置停用词
 stopwords = set(STOPWORDS)
